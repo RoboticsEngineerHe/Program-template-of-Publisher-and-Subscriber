@@ -1,0 +1,8 @@
+prefix=/home/hyj/catkin_ts/install
+
+Name: test2_tutorials
+Description: Description of test2_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hyj/catkin_ts/install/lib 
+Requires: 
